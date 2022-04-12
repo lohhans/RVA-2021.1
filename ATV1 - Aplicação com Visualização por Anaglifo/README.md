@@ -4,7 +4,7 @@
 
 ---
 
-##### Descrição da atividade:
+### Descrição da atividade:
 
 > Desenvolva uma aplicação com Visualização 3D por Anaglifo.
 >
@@ -20,10 +20,16 @@
 >
 > O trabalho será apresentado durante a aula do dia 12/04.
 
-##### Como executar:
+### Como executar:
 
 Executar o seguinte comando no terminal:
 
 ```bash
 gcc anaglifo_opengl_armstrong.c -o atividade1-armstrong -lGL -lglut -lm -lGLU -lOpenGL && ./atividade1-armstrong
 ```
+
+### Saída:
+
+Você deve ver uma imagem como esta:
+
+![image](https://user-images.githubusercontent.com/30741312/162868063-8fa0b2e2-b8c4-4858-b5dd-e22f2cdade2c.png)
